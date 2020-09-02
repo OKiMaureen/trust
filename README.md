@@ -1,1 +1,1 @@
-# trust
+# trust always
